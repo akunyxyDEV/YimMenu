@@ -35,7 +35,7 @@ namespace big
 	        {CustomWeapon::TP_GUN, "tp"},
 	        {CustomWeapon::PAINT_GUN, "paint"},
 	    })
-
+	// after this i dont even know
 	enum class ContextEntityType : uint8_t
 	{
 		NONE    = 0,
